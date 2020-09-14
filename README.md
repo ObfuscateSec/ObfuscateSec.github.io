@@ -1,2 +1,0 @@
-# ObfuscateSec.github.io
-web
